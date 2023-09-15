@@ -1,1 +1,1 @@
-# SQL-Music-Store-Data-Analysis-using-PostgreSQL
+An Exploratory Data Analysis project built with PostgreSQL by importing data source, writing queries for answering business problems around the data , which involves use of Joins, Sub-Query, and CTE using SQL and are divided into 3 categoreis such as Beginner, Intermediate and Advanced.
